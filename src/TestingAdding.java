@@ -6,5 +6,6 @@ public class TestingAdding {
         System.out.println("Adding a comment from the Lenovo");
 
         System.out.println("Testing from mac");
+        System.out.println("Testing from another mac");
     }
 }
