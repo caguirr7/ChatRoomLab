@@ -19,5 +19,7 @@ public class IncrementDecrement {
 
         //Display the value in number once more
         System.out.println("Now, number is " + number);
+
+        System.out.println("Testing from vscode");
     }
 }
